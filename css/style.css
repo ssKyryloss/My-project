@@ -95,12 +95,12 @@ address {
 
 .header-address {
     margin: 0 auto;
+    padding: 24px 0;
 }
 
 .header-address-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-address-item {
