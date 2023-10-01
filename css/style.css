@@ -74,11 +74,10 @@ address {
 .header-nav-list {
     display: flex;
     gap: 40px;
-}
-
-.header-nav-item {
     padding: 24px 0;
 }
+
+.header-nav-item {}
 
 .header-nav-link {
     color: var(--NAVY-BLUE, #2E2F42);
