@@ -106,6 +106,8 @@ address {
 }
 
 .header-address-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-address-link {
@@ -114,8 +116,6 @@ address {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-address-link:hover,
