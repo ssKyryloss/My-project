@@ -77,8 +77,6 @@ address {
 }
 
 .header-nav-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-nav-link {
@@ -88,7 +86,8 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     display: block;
-
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-nav-link:hover,
@@ -114,6 +113,7 @@ address {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    display: block;
     padding-top: 24px;
     padding-bottom: 24px;
 }
