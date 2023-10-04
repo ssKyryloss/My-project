@@ -98,6 +98,8 @@ address {
 
 .header-address {
     margin-left: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-address-list {
@@ -106,8 +108,6 @@ address {
 }
 
 .header-address-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-address-link {
